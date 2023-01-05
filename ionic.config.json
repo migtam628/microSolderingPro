@@ -1,0 +1,7 @@
+{
+  "name": "microSolderingPro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
